@@ -7,8 +7,7 @@ Znaki te powinny tworzyc szachownicę
 Postaraj sie aby program dzialal dla jakiejkolwiek wartosci, przyklad size = 8*/
 
 let size = 10;
-
-console.log(createChessBoard(size));
+createChessBoard(size);
 
 function createChessBoard(boardSize) {
   let i = 0;
