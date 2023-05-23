@@ -2,7 +2,7 @@ console.log("---> Minimum <---");
 
 /* napisz funkcjęo nazwie min przyjmującą dwa argumenty i zwracającą najmniejszy z nich*/
 
-let theLowest = min(11, 10);
+let theLowest = min(30, 29);
 console.log(theLowest);
 
 function min(number1, number2) {
