@@ -1,3 +1,3 @@
 # EloquentJavaScript_Excercises
 
-Excercises for the JS book
+Excercises for JavaScript and TypeScript
