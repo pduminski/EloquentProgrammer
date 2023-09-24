@@ -6,7 +6,7 @@ dla kazdej pozycji moze byc spacja albo znak #.
 Znaki te powinny tworzyc szachownicę 
 Postaraj sie aby program dzialal dla jakiejkolwiek wartosci, przyklad size = 8*/
 
-let size = 10;
+let size = 8;
 createChessBoard(size);
 
 function createChessBoard(boardSize) {
